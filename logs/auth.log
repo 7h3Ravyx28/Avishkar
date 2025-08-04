@@ -1,0 +1,4 @@
+Jan  4 10:15:01 server sshd[1234]: Failed password for root from 192.168.1.5 port 22
+Jan  4 10:16:12 server sshd[1234]: Failed password for admin from 45.76.12.34 port 22
+Jan  4 10:17:54 server sshd[1234]: Accepted password for user from 203.0.113.5 port 22
+Jan  4 10:18:33 server sshd[1234]: Failed password for guest from 45.76.12.34 port 22
